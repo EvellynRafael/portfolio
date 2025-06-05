@@ -11,12 +11,12 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-              Desenvolvedora Web
+              Desenvolvedora Web/Mobile
             </h3>
 
             <p className="text-muted-foreground">
-              Sou Desenvolvedora com mais de 3 anos de experiência, especializada em Desenvolvimento Web, Mobile e Soluções Microsoft.
-              Atualmente, estou estudando desenvolvimento mobile com Flutter para expandir minhas habilidades.
+              Atuo com desenvolvimento web há mais de 3 anos, com foco em Frontend, criando interfaces bonitas, responsivas 
+              e intuitivas que melhoram a experiência do usuário e otimizam a interação com sistemas digitais. 
             </p>
 
             <p className="text-muted-foreground">
@@ -44,7 +44,8 @@ export const AboutSection = () => {
                 <div className="text-left">
                   <h4 className="text-semibold text-lg"> Foco</h4>
                   <p className="text-muted-foreground">
-                    Tenho foco no frontend criando sites responsivos e aplicativos para Web utilizando React dentre outros frameworks.
+                    Tenho foco no frontend criando sites responsivos e aplicativos para Web utilizando React, TailwindCSS e Material. 
+                     Atualmente, estou estudando Java/Kotlin para ampliar meu conhecimento em desenvolvimento mobile e FullStack.
                   </p>
                 </div>
               </div>
@@ -57,7 +58,8 @@ export const AboutSection = () => {
                 <div className="text-left">
                   <h4 className="text-semibold text-lg"> Pessoalmente</h4>
                   <p className="text-muted-foreground">
-                    Além da paixão por tecnologia, sou skatista e participo de trabalhos voluntários e ações sociais através do esporte.
+                    Além da paixão por tecnologia, sou skatista de um coletivo feminino, participo de trabalhos voluntários e ações sociais através do esporte.
+                    Busco aplicar meus conhecimentos em desenvolvimento para criar páginas de apresentação para as instituições como trabalho voluntário.
                   </p>
                 </div>
               </div>
@@ -69,9 +71,10 @@ export const AboutSection = () => {
                   <Briefcase className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="text-semibold text-lg"> Emprego Atual</h4>
+                  <h4 className="text-semibold text-lg"> Atualmente</h4>
                   <p className="text-muted-foreground">
-                    Sou Analista de Tecnologia, criando soluções e automações com as ferramentas da Power Plataforma da Microsoft.
+                    Sou Analista de Tecnologia, criando soluções e automações com as ferramentas da Power Plataforma da Microsoft. 
+                    Estou buscando novas oportunidades em desenvolvimento web e/ou mobile. 
                   </p>
                 </div>
               </div>
