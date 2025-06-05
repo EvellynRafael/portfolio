@@ -1,12 +1,20 @@
-# React + Vite
+# Meu Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A aplicação foi desenvolvida em React em conjunto com Vite.
+- Lucide React para os Icons
+- Tailwind Merge para toda a estilização da página
+- Clsx para combinar classes Css com as do Tailwind
 
-Currently, two official plugins are available:
+# Hero
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Na aplicação utilizei um formato parecido com landing page, React Router para alternar entre home e not found. Utilizei também um botão para alternar entre temas claro e escuro.
 
-## Expanding the ESLint configuration
+## Escuro
+![image](https://github.com/user-attachments/assets/49dfb480-4899-4df8-a638-39fe3990ab60)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Claro
+![image](https://github.com/user-attachments/assets/495353b5-3687-4942-853a-b07c2436a9eb)
+
+# Proposta
+Este é a minha primeira versão de um portfolio. Pretendo fazer atualizações a medida que vou adquirindo mais conhecimentos sobre React e Tailwind (particularmente, eu gostei muito). 
+
